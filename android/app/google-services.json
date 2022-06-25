@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249949547339",
+    "project_id": "rigel-c4c10",
+    "storage_bucket": "rigel-c4c10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249949547339:android:41b536e6ee8d4fe2bd96ce",
+        "android_client_info": {
+          "package_name": "com.rigel.rigel_fyp_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249949547339-ae0j9n0a6otcqc2su0ss2hb4vjnpbb4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgbUUIofqhy3hpioRXEJ0GScBtfdojQ04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249949547339-ae0j9n0a6otcqc2su0ss2hb4vjnpbb4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
