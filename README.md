@@ -1,16 +1,11 @@
-# rigel_fyp_project
-
-A new Flutter project
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Blockchain Based Freelancing Platform
+Blockchain technology has immensely effect the
+payment methods which not only eliminates the necessity of a trusted third party but also provides a
+distributed shared ledger. This technology will also make freelancing more flexible where you can often
+work full- or part-time on projects of your choice, at the hours that are convenient for you. We propose
+an idea where all freelance transactions will get stored on a Blockchain. There will be no middle man in
+this system hence making it more secure. This will be a portal to find
+short-term freelance work where clients can upload their projects which freelancers can browse through
+and pick up. Before a project is assigned, the client will have to deposit the charges in a smart contract.
+After a project is assigned, any changes to the contract can be done only if it is authorized by both the
+sides
