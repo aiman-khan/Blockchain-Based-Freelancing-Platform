@@ -8,4 +8,6 @@ this system hence making it more secure. This will be a portal to find
 short-term freelance work where clients can upload their projects which freelancers can browse through
 and pick up. Before a project is assigned, the client will have to deposit the charges in a smart contract.
 After a project is assigned, any changes to the contract can be done only if it is authorized by both the
-sides
+sides.
+
+[![Doc1-2.jpg](https://i.postimg.cc/QdGL6zyK/Doc1-2.jpg)](https://postimg.cc/MvDrH9xz)
